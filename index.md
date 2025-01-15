@@ -3,9 +3,9 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
+My name is Jose Mathew. I'm an Information Technology major in my final year of the program. Born and raised in India, I came to the United States at eight years old. After graduating high school in 2019, I attended Embry-Riddle Aeronautical University in Daytona Beach and graduated with a degree in Human Factors Psychology in 2021. I came to UCF to get an IT degree after that. My primary career interest has always been in the aviation and aerospace industry. However, I also love computers and wanted to learn coding and tech skills which I figured would help me stand out. After college, I’m looking to land a network engineering position within an aerospace company. Currently, I work part-time at the local Home Depot as a Millwork Specialist. I’ve been working for Home Depot for nearly three years and now have accumulated a wealth of experience from customer service to operating lift equipment. I’ve gone through and learned almost every department at the store including electrical, paint, lumber, appliances, garden, and hardware. I love to learn new skills and expand my library of knowledge, and I always give my all to whatever I may be working on. I can't wait to see where I end up in the future. 
 
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
+*Note: Handtyped by Jose Mathew.*
 
 [Start Here instructional page for copying this website](starthere.md)
 <center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
