@@ -49,25 +49,50 @@ Ads have become more intrusive no matter what we might be trying to do on the in
 ### Disclaimer: 
 •	AdGuard DNS servers are not like your typical software's where you have to download something. You just have to connect to it. 
 
-•	This tutorial is from a Samsung Galaxy s23+ with Android Version 14. The following steps might be slightly different for other Android versions/phones. The general steps should still be applicable, even if the exact order might be different. 
+•	This tutorial is for a Samsung Galaxy S23+ with Android Version 14. The following steps might be slightly different for other Android versions/phones. The general steps should still be apply, even if the exact order is different. 
 
 **Prerequisites:** Must have an Android. (This method only works on Android phones.)
 
 ### Steps:
 1. Open your Phone’s settings.
-   ![Step 1](https://i.imgur.com/2ywO5V5.jpeg)
-2. Open the ‘Connections’ settings.
-   ![Step 2](https://i.imgur.com/xH6yufR.jpeg)
-3. Open ‘More connection settings’.
-   ![Step 3](https://i.imgur.com/QM0Ln5m.jpeg)
-4. Open ‘Private DNS’.
-   ![Step 4](https://i.imgur.com/IUYMiZS.jpeg)
+   <p align="center">
+     <img src="https://i.imgur.com/2ywO5V5.jpeg" alt="Step 1" width="500">
+   </p>
+   <p align="center"><em>Open settings by selecting the gear icon</em></p>
+
+2. Select the ‘Connections’ settings.
+   <p align="center">
+     <img src="https://i.imgur.com/xH6yufR.jpeg" alt="Step 2" width="500">
+   </p>
+   <p align="center"><em>Look for the menu option that has to do with connections, wifi, Bluetooth, etc....</em></p>
+
+3. Select ‘More connection settings’.
+   <p align="center">
+     <img src="https://i.imgur.com/QM0Ln5m.jpeg" alt="Step 3" width="500">
+   </p>
+   <p align="center"><em>Look for a button that says 'advanced settings' or 'more connection settings'</em></p>
+
+4. Select ‘Private DNS’.
+   <p align="center">
+     <img src="https://i.imgur.com/IUYMiZS.jpeg" alt="Step 4" width="500">
+   </p>
+   <p align="center"><em>Select the Private DNS option</em></p>
+
 5. Select the option titled ‘Private DNS provider hostname’.
+
 6. In the input bar, insert the following link: ‘dns.adguard.com’.
-   ![Step 6](https://i.imgur.com/dcMSKDA.jpeg)
-7. Save changes
-8. Restart Phone
-   ![Step 8](https://i.imgur.com/CgOP8zW.jpeg)
+   <p align="center">
+     <img src="https://i.imgur.com/dcMSKDA.jpeg" alt="Step 6" width="500">
+   </p>
+   <p align="center"><em>Type in 'dns.adguard.com' into the input bar</em></p>
+
+7. Save changes.
+
+8. Restart The Phone.
+   <p align="center">
+     <img src="https://i.imgur.com/CgOP8zW.jpeg" alt="Step 8" width="500">
+   </p>
+   <p align="center"><em>Select the restart Option</em></p>
 
 
 ## Congratulations! 
