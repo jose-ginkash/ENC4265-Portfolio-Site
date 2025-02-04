@@ -43,48 +43,45 @@ The Home Depot did a great job on its site for the time. I’ve seen way worse w
 
 # Quick Start Guide: Connecting to a public AdGuard DNS Server
 
-## Product Introduction: 
-Ads have become more intrusive no matter what we might be trying to do on the internet. YouTube will usually have multiple ads per video with some not letting you skip. You can't even read a simple news article without being berated by several ads with every scroll you take. On a desktop or laptop, it's pretty easy to get rid of ads. You simply get an AdBlock extension for the browser of your choosing and it works as simple as that. On phones, however, it’s a lot more complicated. Most of the main solutions are to download some kind of app but most of the apps that work, require you to pay for it. It’s not possible to get extensions on mobile browsers, as you could on Chrome on a desktop or laptop. That’s where this method comes in. It’s simple and free and eliminates most ads on mobile devices. 
-
 ### Disclaimer: 
 •	AdGuard DNS servers are not like your typical software's where you have to download something. You just have to connect to it. 
 
-•	This tutorial is for a Samsung Galaxy S23+ with Android Version 14. The following steps might be slightly different for other Android versions/phones. The general steps should still be apply, even if the exact order is different. 
+•	This tutorial is for a Samsung Galaxy S23+ with Android Version 14. 
 
 **Prerequisites:** Must have an Android. (This method only works on Android phones.)
 
 ### Steps:
-1. Open your Phone’s settings.
+1. Navigate to your Phone’s settings application.
    <p align="center">
      <img src="https://i.imgur.com/2ywO5V5.jpeg" alt="Step 1" width="500">
    </p>
-   <p align="center"><em>Open settings by selecting the gear icon</em></p>
+   <p align="center"><em>Figure #1: Open settings by tapping the gear icon within the drop-down menu of your phone's OS (Jose Mathew)</em></p>
 
-2. Select the ‘Connections’ settings.
+2. Tap the ‘Connections’ settings.
    <p align="center">
      <img src="https://i.imgur.com/xH6yufR.jpeg" alt="Step 2" width="500">
    </p>
-   <p align="center"><em>Look for the menu option that has to do with connections, wifi, Bluetooth, etc....</em></p>
+   <p align="center"><em>Figure #2: Look for the menu option that has to do with connections, wifi, Bluetooth, etc... (Jose Mathew)</em></p>
 
-3. Select ‘More connection settings’.
+3. Tap ‘More connection settings’.
    <p align="center">
      <img src="https://i.imgur.com/QM0Ln5m.jpeg" alt="Step 3" width="500">
    </p>
-   <p align="center"><em>Look for a button that says 'advanced settings' or 'more connection settings'</em></p>
+   <p align="center"><em>Figure #3: Look for a button that says 'advanced settings' or 'more connection settings' (Jose Mathew)</em></p>
 
-4. Select ‘Private DNS’.
+4. Click on ‘Private DNS’.
    <p align="center">
      <img src="https://i.imgur.com/IUYMiZS.jpeg" alt="Step 4" width="500">
    </p>
-   <p align="center"><em>Select the Private DNS option</em></p>
+   <p align="center"><em>Figure #4: There should be an option called 'Private DNS' (Jose Mathew)</em></p>
 
-5. Select the option titled ‘Private DNS provider hostname’.
+5. Tap the option titled ‘Private DNS provider hostname’.
 
 6. In the input bar, insert the following link: ‘dns.adguard.com’.
    <p align="center">
      <img src="https://i.imgur.com/dcMSKDA.jpeg" alt="Step 6" width="500">
    </p>
-   <p align="center"><em>Type in 'dns.adguard.com' into the input bar</em></p>
+   <p align="center"><em>Figure #5: Type in 'dns.adguard.com' into the input bar (Jose Mathew)</em></p>
 
 7. Save changes.
 
@@ -92,7 +89,7 @@ Ads have become more intrusive no matter what we might be trying to do on the in
    <p align="center">
      <img src="https://i.imgur.com/CgOP8zW.jpeg" alt="Step 8" width="500">
    </p>
-   <p align="center"><em>Select the restart Option</em></p>
+   <p align="center"><em>Figure #6: Tap on the restart Option (Jose Mathew)</em></p>
 
 
 ## Congratulations! 
