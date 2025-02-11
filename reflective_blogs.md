@@ -3,7 +3,7 @@
 # Table of Contents 
 1. [Wayback Analysis: The Home Depot Homepage from April 2011](#wayback-analysis-the-home-depot-homepage-from-april-2011)
 2. [Quick Start Guide: Connecting to a public AdGuard DNS Server](#quick-start-guide-connecting-to-a-public-adguard-dns-server)
-3. [Reflective Blog 3](#reflective-blog-3)
+3. [Reflective Blog 3: Prompt D](#reflective-blog-3-prompt-d)
    
 # Wayback Analysis: The Home Depot Homepage from April 2011
 
@@ -98,5 +98,47 @@ After restarting your phone, you can enjoy browsing through your phone with no a
 *Note: Handtyped by Jose Mathew.*
 
 ---
-# Reflective Blog 3
-TBD
+# Reflective Blog 3: Prompt D
+
+*Prompt D: Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post.*
+
+## Assessment of PCMag’s "How to Build a PC: The Ultimate Beginner’s Guide"
+*(https://www.pcmag.com/how-to/how-to-build-a-pc-the-ultimate-beginners-guide)*
+
+
+## Effective Aspects: 
+
+### 1.	Comprehensive Coverage
+The guide does an excellent job of walking beginners through each stage of building a PC. It starts with gathering tools and components, then progresses to assembling the system, installing the operating system, and troubleshooting. This step-by-step approach ensures that even those with no prior experience can follow along easily.
+
+### 2.	Clear and Concise Writing
+The language is free from excessive technical jargon. When technical terms are used, they are either explained outright or placed in a context that makes their meaning clear. This makes the guide approachable for beginners while still being informative for more experienced users.
+
+### 3.	Use of Visuals
+One of the main strengths of this guide is it’s use of images and diagrams. Since PC building is a hands-on process, visuals help clarify instructions and ensure that readers can correctly identify components and their placement.
+
+### 4.	Logical Organization
+The article is well structured, starting with preparation before moving into component installation. The progression feels natural, and each section builds upon the last. The user interface of the article/website is very relaxed and doesn’t make unwanted areas pop out. The use of the table of contents is also very nicely implemented to where you can jump to specific sessions at any point in the reading process.  
+
+### 5.	Troubleshooting Section
+Many beginner guides focus solely on assembly but fail to prepare users for potential issues. This guide includes troubleshooting advice, which is essential for new builders who might run into problems during or after assembly.
+
+
+## Ineffective Aspects:
+
+### 1.	Limited Explanation of Component Selection
+While the guide provides a general overview of the required components, it could be improved by offering more detailed advice on how to choose the best parts based on the user’s needs such as whether its for gaming, content creation, or office work. A brief discussion of budget considerations or compatibility tools like PCPartPicker would make the guide more useful for those selecting parts for the first time.
+
+### 2.	Lack of Interactive Elements
+Since this is an online guide, it could benefit from interactive elements such as embedded videos, expandable FAQs, or links to in-depth component reviews. Many beginner-friendly PC-building guides incorporate video tutorials, which can be more effective than static images in demonstrating complex steps. This site had a huge almost two-hour video tutorial at the very beginning but it would have been effective to embed clips from the video into the specific sections in the guide to where parts of the video are talked about. 
+
+### 3.	Missing Safety Precautions
+While the guide does mention gathering tools, it does not emphasize the importance of anti-static precautions such as using an anti-static wrist strap or working on a non-carpeted surface. This is a crucial step for beginners to avoid damaging sensitive components.
+
+### 4.	More Detail on Cable Management
+The guide briefly mentions cable management but does not go into enough depth. Good cable management is important for airflow and aesthetics, yet many beginners struggle with it. A dedicated section with tips, examples, or even recommended accessories like Velcro straps or cable routing guides would be beneficial. 
+
+## Final Thoughts:
+Overall, this is a well-structured and highly readable guide for beginners looking to build a PC. It covers the essential steps clearly and provides useful troubleshooting tips. With a few refinements, this guide could be an even stronger resource for first-time builders.
+
+*Note: Grammarly was used in this text as a spell check and grammar corrector.*
