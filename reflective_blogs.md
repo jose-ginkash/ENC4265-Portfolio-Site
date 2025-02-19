@@ -4,6 +4,7 @@
 1. [Wayback Analysis: The Home Depot Homepage from April 2011](#wayback-analysis-the-home-depot-homepage-from-april-2011)
 2. [Quick Start Guide: Connecting to a public AdGuard DNS Server](#quick-start-guide-connecting-to-a-public-adguard-dns-server)
 3. [Reflective Blog 3: Prompt D](#reflective-blog-3-prompt-d)
+4. [Reflective Blog 4: Prompt F](#reflective-blog-4-prompt-f)
    
 # Wayback Analysis: The Home Depot Homepage from April 2011
 
@@ -142,3 +143,26 @@ The guide briefly mentions cable management but does not go into enough depth. G
 Overall, this is a well-structured and highly readable guide for beginners looking to build a PC. It covers the essential steps clearly and provides useful troubleshooting tips. With a few refinements, this guide could be an even stronger resource for first-time builders.
 
 *Note: Grammarly was used in this text as a spell check and grammar corrector.*
+
+---
+# Reflective Blog 4: Prompt F
+
+*Prompt F: Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.*
+
+## Reflection on My Wayback Analysis Assignment
+
+### Was it easy?
+The easiest part of the assignment was formatting the page. I enjoy organizing information clearly, so using headings, bullet points, and images came naturally. Dr. Johnson's positive feedback on this reassured me that my approach to structure and readability was effective.
+
+### What Was Difficult?
+The most challenging part was analyzing the website objectively. While I had my own immediate reactions to the outdated design, I had to think critically about why those elements felt out of place rather than just stating my preferences. It required me to step back and compare the old website with modern standards in a more analytical way.
+
+### What Did I Learn About Myself and Technical Communication?
+This assignment reinforced the importance of clarity and conciseness in technical communication. I learned that effective analysis isn’t just about identifying issues. It’s about explaining them in a structured way that is accessible to any reader. It also showed me that small design choices, like bolding certain parts and layout, can have a significant impact on user experience.
+
+### What Would I Do Differently?
+Since Dr. Johnson's feedback was entirely positive, I wouldn’t make major changes to my approach. However, if I were to improve the assignment, I might include more direct comparisons to the modern Home Depot homepage. This could further emphasize how web design standards have evolved. Overall, completing the Wayback Analysis assignment was an interesting experience that helped me better understand both web design evolution and technical communication better. 
+
+*Note: Handtyped by Jose Mathew.*
+
+---
