@@ -5,6 +5,7 @@
 2. [Quick Start Guide: Connecting to a public AdGuard DNS Server](#quick-start-guide-connecting-to-a-public-adguard-dns-server)
 3. [Reflective Blog 3: Prompt D](#reflective-blog-3-prompt-d)
 4. [Reflective Blog 4: Prompt F](#reflective-blog-4-prompt-f)
+5. [Reflective Blog 5: Prompt A](#reflective-blog-5-prompt-a)
    
 # Wayback Analysis: The Home Depot Homepage from April 2011
 
@@ -164,5 +165,22 @@ This assignment reinforced the importance of clarity and conciseness in technica
 Since Dr. Johnson's feedback was entirely positive, I wouldn’t make major changes to my approach. However, if I were to improve the assignment, I might include more direct comparisons to the modern Home Depot homepage. This could further emphasize how web design standards have evolved. Overall, completing the Wayback Analysis assignment was an interesting experience that helped me better understand both web design evolution and technical communication better. 
 
 *Note: Handtyped by Jose Mathew.*
+
+---
+# Reflective Blog 5: Prompt A
+
+*Prompt A: Reflect on your assigned reading this week in a detailed manner that demonstrates you read and understood the assigned reading. What can you 'take away' from this reading? What insightful concepts did you read about that can inform your own technical communication activities?*
+
+## Reflection on This Week’s Reading (Week H)
+
+This week’s readings, including Chapter 9 and Interlude 3, focused on how to create clear and user-friendly content, especially for online platforms. Both chapters explain how writing for the web is different from traditional writing and how adjusting to this new format can help engage readers and make information easier to understand. 
+
+One key point from Chapter 9 is the use of headings to make content more skimmable. Good headings help readers quickly find the information they need without having to read everything. The chapter shares tips for writing effective headings, suggesting that it’s better to use questions, statements, or action phrases rather than vague terms. I found the advice about maintaining a consistent style for headings particularly helpful. I understood it as when headings look similar, they’re simpler to follow. Additionally, I learned that including relevant keywords in headings can make the content easier to find online, which is essential for reaching a wider audience. 
+
+Interlude 3 builds on these ideas by discussing how press releases have changed in the digital world. Traditionally, press releases were aimed at journalists, but now they often serve a wider audience as online content. This reading highlights the importance of formatting press releases in a way that suits web readers, meaning, use clear headings, short paragraphs, bullet points, and links to additional information. It was interesting to discover that many people see press releases not just as promotional materials, but as reliable sources of information. This change means organizations need to write press releases with everyday readers in mind, not just for media professionals.  
+
+Overall, both readings offer useful advice for anyone involved in writing or sharing information. Whether it’s a web article, a press release, or an instruction manual, organizing content well can make it more enjoyable and easier to digest. For my own writing from now on, I plan to be more mindful of how I structure it, ensuring it’s easy to read, accessible, and includes meaningful headings. I’ll also think about how my writing will be used in different situations such as whether it’s a standalone document, part of a website, or something shared on social media. These insights will guide me in creating clearer and more effective documents in the future.
+
+*Note: Grammarly was used in this text as a spell check and grammar corrector.*
 
 ---
