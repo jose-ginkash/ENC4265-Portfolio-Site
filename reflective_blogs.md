@@ -6,6 +6,7 @@
 3. [Reflective Blog 3: Prompt D](#reflective-blog-3-prompt-d)
 4. [Reflective Blog 4: Prompt F](#reflective-blog-4-prompt-f)
 5. [Reflective Blog 5: Prompt A](#reflective-blog-5-prompt-a)
+6. [Reflective Blog 6: Prompt E](#reflective-blog-6-prompt-e)
    
 # Wayback Analysis: The Home Depot Homepage from April 2011
 
@@ -180,6 +181,30 @@ One key point from Chapter 9 is the use of headings to make content more skimmab
 Interlude 3 builds on these ideas by discussing how press releases have changed in the digital world. Traditionally, press releases were aimed at journalists, but now they often serve a wider audience as online content. This reading highlights the importance of formatting press releases in a way that suits web readers, meaning, use clear headings, short paragraphs, bullet points, and links to additional information. It was interesting to discover that many people see press releases not just as promotional materials, but as reliable sources of information. This change means organizations need to write press releases with everyday readers in mind, not just for media professionals.  
 
 Overall, both readings offer useful advice for anyone involved in writing or sharing information. Whether it’s a web article, a press release, or an instruction manual, organizing content well can make it more enjoyable and easier to digest. For my own writing from now on, I plan to be more mindful of how I structure it, ensuring it’s easy to read, accessible, and includes meaningful headings. I’ll also think about how my writing will be used in different situations such as whether it’s a standalone document, part of a website, or something shared on social media. These insights will guide me in creating clearer and more effective documents in the future.
+
+*Note: Grammarly was used in this text as a spell check and grammar corrector.*
+
+---
+# Reflective Blog 6: Prompt E
+
+*Prompt E: Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)*
+
+## Analysis of Home Depot's Magic Apron Chatbot
+
+### Purpose
+The Magic Apron chatbot is designed to assist Home Depot customers with product inquiries, DIY project guidance, and general customer service questions. It aims to provide quick, accessible answers about Home Depot’s offerings, including product recommendations, installation services, and purchasing options. Given that it is in beta, the chatbot appears to be in a trial phase where its effectiveness is being tested and refined.
+
+### Functionality
+While the chatbot performs well with pre-selected questions and structured questions, it struggles with more complex or open-ended ones. When asked general or multi-part questions, it often fails to respond properly, giving an error message stating, “An error occurred while processing your request.” This shows a limitation in its ability to handle natural language input and more detailed problem-solving. Additionally, its responses frequently mirror product descriptions rather than providing personalized answers or actual advice, making it feel more like an automated product catalog than a knowledgeable assistant.
+
+### User Experience
+Interacting with Magic Apron is straightforward, especially when selecting from the chatbot’s suggested questions. For those looking for basic product details or general guidance, the chatbot provides clear and structured responses. However, its weaknesses become apparent when users deviate from its preset options. The frequent error messages make it frustrating to use for more in-depth inquiries, and its tendency to provide sales-oriented responses rather than tailored advice reduces its usefulness. Strengths include quick access to product information and concise responses, but the bot’s lack of flexibility and failure to handle complex interactions negatively impact the user experience.
+
+### Context
+For customers, the Magic Apron chatbot serves as a quick reference tool for basic home improvement questions and product inquiries, potentially saving time compared to searching manually on the website. However, its current limitations mean that users may still need to speak with a human associate for more complicated issues. For Home Depot, the chatbot helps automate customer interactions, reducing the workload for human representatives and potentially improving efficiency. However, its beta-phase problems show that further improvements are needed before it can reliably enhance customer service.
+
+### Conclusion
+Overall, Home Depot’s Magic Apron chatbot shows promise in providing quick product-related responses but falls short in handling complex inquiries. Its tendency to give  pre-structured responses and product descriptions limits its versatility, and the frequent error messages hinder usability. If improved, it could become a valuable tool for both customers and Home Depot, but as of now, it requires significant enhancements to provide a truly effective and seamless user experience.
 
 *Note: Grammarly was used in this text as a spell check and grammar corrector.*
 
