@@ -7,6 +7,7 @@
 4. [Reflective Blog 4: Prompt F](#reflective-blog-4-prompt-f)
 5. [Reflective Blog 5: Prompt A](#reflective-blog-5-prompt-a)
 6. [Reflective Blog 6: Prompt E](#reflective-blog-6-prompt-e)
+7. [Reflective Blog 7: Prompt R](#reflective-blog-7-prompt-r)
    
 # Wayback Analysis: The Home Depot Homepage from April 2011
 
@@ -205,6 +206,35 @@ For customers, the Magic Apron chatbot serves as a quick reference tool for basi
 
 ### Conclusion
 Overall, Home Depot’s Magic Apron chatbot shows promise in providing quick product-related responses but falls short in handling complex inquiries. Its tendency to give  pre-structured responses and product descriptions limits its versatility, and the frequent error messages hinder usability. If improved, it could become a valuable tool for both customers and Home Depot, but as of now, it requires significant enhancements to provide a truly effective and seamless user experience.
+
+*Note: Grammarly was used in this text as a spell check and grammar corrector.*
+
+---
+# Reflective Blog 7: Prompt R
+
+*Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?*
+
+## Analysis of my Linus Chatbot
+
+After working on my chatbot assignment, I had some interesting experiences interacting with the AI. My chatbot, Linus, was designed to help with PC building, and I based him on Linus from Linus Tech Tips. The only information I gave him was the PCMag Ultimate Beginner's Guide to Building PCs, so I was curious to see how well he could help me.
+
+### What did it do well?
+One thing AI does really well is generating responses quickly and making them sound engaging. Linus had a fun personality and made the conversation feel lively, which made asking for help more enjoyable. He also gave useful suggestions for PC parts and troubleshooting steps, which were mostly accurate.
+
+### What did it not do well?
+However, AI has its limits. While Linus provided good recommendations, he sometimes needed more clarification or re-prompting to get the best results. For example, when I asked about building a white-themed PC, he gave me a solid build, but when I removed the color requirement, he was able to suggest an even better build for the same price. This showed me that AI can be flexible but sometimes needs guidance to reach the best answer.
+
+### What did you have to correct or re-prompt it to modify? 
+Another issue was that Linus didn’t always consider local availability. Since I mentioned shopping at Micro Center, I had to double-check whether the suggested parts were actually in stock. AI also doesn’t always understand context perfectly. For example, it didn’t immediately recognize that my PC shutting down at the Windows loading screen was likely a thermal issue until I gave more details.
+
+### What kind of data was included or excluded? 
+When it comes to training data, AI models are trained on a mix of publicly available information, licensed data, and information from books and websites. This means they can be really knowledgeable about general topics like PC building, but they might miss specific or recent information. Also, certain data, like personal opinions or proprietary details, might be excluded, so AI can’t always provide the most up-to-date recommendations. The only data that was given to this model was the guide on PC building written by PCMag. Everything else was what the model itself knew. 
+
+### What does the future hold? 
+Looking ahead, AI is only going to get better. As models improve, they’ll likely be able to provide more accurate and personalized advice, possibly even pulling in real-time data about stock availability or pricing. They might also get better at recognizing user intent without needing as much clarification. However, there will always be challenges, like avoiding misinformation and ensuring AI understands complex problems fully.
+
+### Conclusion
+Overall, working with AI for this project was a fun and useful experience. While it’s not perfect, it’s a great tool for brainstorming and troubleshooting, and I was already blown away by how natural and useful it felt to go back and forth with it. I can’t wait to see how much more powerful a resource it will become in the future.
 
 *Note: Grammarly was used in this text as a spell check and grammar corrector.*
 
