@@ -15,52 +15,52 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Understanding METARs: The Basics](#)
-    - [What is a METAR?](#)
-    - [Where Do METARs Come From?](#)
-    - [METAR Format Overview](#)
-    - [Breaking Down a METAR (Section by Section)](#)
-      - [Report Type and Station Identifier](#)
-      - [Date and Time of Report](#)
-      - [Wind](#)
-      - [Visibility](#)
-      - [Sky Conditions](#)
-      - [Temperature and Dew Point](#)
-      - [Altimeter (Pressure)](#)
-      - [Remarks](#)
-      - [Summary](#)
-3. [Understanding TAFs: The Basics](#)
-    - [What is a TAF?](#)
-    - [Where do TAFs Come From?](#)
-    - [TAF Format Overview](#)
-    - [Breaking Down a TAF (Section by Section)](#)
-      - [Report Type and Station Identifier](#)
-      - [Date and Time of Report](#)
-      - [Forecast Period](#)
-      - [Wind Forecast](#)
-      - [Visibility](#)
-      - [Sky Conditions](#)
-      - [Temperature](#)
-      - [Remarks](#)
-      - [Summary](#)
-4. [METARs vs TAFs: Key Differences](#)
-5. [Interpreting METARs and TAFs Together](#)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
-6. [Final Notes and Tips](#)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
-7. [Glossary of Aviation and Weather Terms](#)
-8. [AI Statement & References](#) 
+2. [Understanding METARs: The Basics](#understanding-metars-the-basics)
+    - [What is a METAR?](#what-is-a-metar)
+    - [Where Do METARs Come From?](#where-do-metars-come-from)
+    - [METAR Format Overview](#metar-format-overview)
+    - [Breaking Down a METAR (Section by Section)](#breaking-down-a-metar-section-by-section)
+      - [Report Type and Station Identifier](#report-type-and-station-identifier)
+      - [Date and Time of Report](#date-and-time-of-report)
+      - [Wind](#wind)
+      - [Visibility](#visibility)
+      - [Sky Conditions](#sky-conditions)
+      - [Temperature and Dew Point](#temperature-and-dew-point)
+      - [Altimeter (Pressure)](#altimeter-pressure)
+      - [Remarks](#remarks)
+      - [Summary](#summary)
+3. [Understanding TAFs: The Basics](#understanding-tafs-the-basics)
+    - [What is a TAF?](#what-is-a-taf)
+    - [Where do TAFs Come From?](#where-do-tafs-come-from)
+    - [TAF Format Overview](#taf-format-overview)
+    - [Breaking Down a TAF (Section by Section)](#breaking-down-a-taf-section-by-section)
+      - [Report Type and Station Identifier](#report-type-and-station-identifier)
+      - [Date and Time of Report](#date-and-time-of-report)
+      - [Forecast Period](#forecast-period)
+      - [Wind Forecast](#wind-forecast)
+      - [Visibility](#visibility)
+      - [Sky Conditions](#sky-conditions)
+      - [Temperature](#temperature)
+      - [Remarks](#remarks)
+      - [Summary](#summary)
+4. [METARs vs TAFs: Key Differences](#metars-vs-tafs-key-differences)
+5. [Interpreting METARs and TAFs Together](#interpreting-metars-and-tafs-together)
+   - [How to use METARs and TAFs Together](#how-to-use-metars-and-tafs-together)
+   - [Example: Using METARs and TAFs Together](#example-using-metars-and-tafs-together)
+   - [How To Combine Both Reports](#how-to-combine-both-reports)
+   - [Summary](#summary)
+6. [Final Notes and Tips](#final-notes-and-tips)
+   - [Always Check for Updates](#always-check-for-updates)
+   - [Use METARs for Immediate Decisions](#use-metars-for-immediate-decisions)
+   - [Use TAFs for Long-Term Flight Planning](#use-tafs-for-long-term-flight-planning)
+   - [Monitor Sky Conditions](#monitor-sky-conditions)
+   - [Know Your Limits](#know-your-limits)
+   - [Look for Special Weather Changes](#look-for-special-weather-changes)
+   - [Cross-Reference With Other Weather Sources](#cross-reference-with-other-weather-sources)
+   - [Practice Makes Perfect](#practice-makes-perfect)
+   - [Summary of Key Points](#summary-of-key-points)
+7. [Glossary of Aviation and Weather Terms](#glossary-of-aviation-and-weather-terms)
+8. [AI Statement & References](#ai-statement--references)
 
 
 # Introduction
@@ -116,7 +116,7 @@ Each group of characters gives a specific piece of weather information. Here's h
 
 ---
 
-## 1. Report Type and Station Identifier
+## Report Type and Station Identifier
 
 **METAR KMCO**
 
@@ -128,7 +128,7 @@ Each group of characters gives a specific piece of weather information. Here's h
 
 ---
 
-## 2. Date and Time of Report
+## Date and Time of Report
 
 **081753Z**
 
@@ -139,7 +139,7 @@ Each group of characters gives a specific piece of weather information. Here's h
 
 ---
 
-## 3. Wind
+## Wind
 
 **09010KT**
 
@@ -151,7 +151,7 @@ Each group of characters gives a specific piece of weather information. Here's h
 
 ---
 
-## 4. Visibility
+## Visibility
 
 **10SM**
 
@@ -162,7 +162,7 @@ Each group of characters gives a specific piece of weather information. Here's h
 
 ---
 
-# 5. Sky Conditions
+## Sky Conditions
 
 **FEW035 SCT050 BKN090**
 
@@ -182,7 +182,7 @@ Sky conditions are reported from least to most coverage:
 
 ---
 
-# 6. Temperature and Dew Point
+## Temperature and Dew Point
 
 **28/21**
 
@@ -195,7 +195,7 @@ Sky conditions are reported from least to most coverage:
 
 ---
 
-# 7. Altimeter Setting
+## Altimeter (Pressure) 
 
 **A2992**
 
@@ -206,7 +206,7 @@ Sky conditions are reported from least to most coverage:
 
 ---
 
-# 8. Remarks
+## Remarks
 
 **RMK AO2 SLP132**
 
@@ -234,7 +234,7 @@ Let’s recap what the full decoded METAR tells us:
 
 ---
 
-# Understanding TAFs: Aviation Forecasts
+# Understanding TAFs: The Basics
 
 ## What is a TAF?
 
@@ -242,8 +242,15 @@ A **TAF** (Terminal Aerodrome Forecast) is an aviation weather forecast that pre
 
 TAFs are typically issued every 6 hours and are meant to provide a general idea of expected weather. However, **weather can change**, so pilots must stay updated and monitor METARs in conjunction with TAFs during flight.
 
----
+## Where Do TAFs Come From?
 
+Placeholder for now. 
+
+You can find TAFs on websites such as:
+- [aviationweather.gov](https://aviationweather.gov/metar)
+- [SkyVector](https://skyvector.com/)
+- [ForeFlight App](https://foreflight.com)
+  
 ## TAF Format Overview
 
 Just like METARs, TAFs follow a standard format. Here's a sample TAF:
@@ -271,7 +278,7 @@ Let’s take a look at the following sample TAF and break it down:
 
 ---
 
-## 1. Report Type and Station Identifier
+# Report Type and Station Identifier
 
 **TAF KMCO**
 
@@ -282,7 +289,7 @@ Let’s take a look at the following sample TAF and break it down:
 
 ---
 
-## 2. Date and Time of Report
+# Date and Time of Report
 
 **081730Z**
 
@@ -293,7 +300,7 @@ Let’s take a look at the following sample TAF and break it down:
 
 ---
 
-## 3. Forecast Period
+## Forecast Period
 
 **0818/0924**
 
@@ -304,7 +311,7 @@ Let’s take a look at the following sample TAF and break it down:
 
 ---
 
-## 4. Wind Forecast
+## Wind Forecast
 
 **09010KT**
 
@@ -315,7 +322,7 @@ Let’s take a look at the following sample TAF and break it down:
 
 ---
 
-## 5. Visibility
+## Visibility
 
 **P6SM**
 
@@ -325,7 +332,7 @@ Let’s take a look at the following sample TAF and break it down:
 
 ---
 
-# Sky Conditions in a TAF
+## Sky Conditions
 
 **SCT050 BKN090**
 
@@ -342,7 +349,7 @@ Let’s take a look at the following sample TAF and break it down:
 
 ---
 
-## Temperature in a TAF
+## Temperature 
 
 - TAFs do not always include temperature information. If it is provided, it appears as **TEMP** in the format:  
   `TEMP 15 18`, meaning the temperature will rise from 15°C to 18°C during the forecast period.
@@ -364,7 +371,7 @@ Let’s take a look at the following sample TAF and break it down:
 
 ---
 
-## Summary: TAF Breakdown Recap
+## Summary
 
 > **TAF KMCO 081730Z 0818/0924 09010KT P6SM SCT050 BKN090**
 
@@ -379,7 +386,7 @@ TAFs provide a forecast of **future weather conditions** for airports, helping p
 
 ---
 
-## TAF vs METAR: Key Differences
+## METARs vs TAFs: Key Differences
 
 - **METARs** provide current conditions (updated every hour or as needed).
 - **TAFs** provide a forecast (usually every 6 hours) for a set period (24 or 30 hours).
@@ -401,7 +408,7 @@ When planning a flight, pilots must utilize both **METARs** and **TAFs** to get 
    - TAFs provide the **forecasted** weather over the next 24 to 30 hours, making them crucial for flight planning.
    - Pilots use TAFs to anticipate changes in the weather, such as wind direction and speed, visibility, and sky conditions, during different phases of the flight.
 
-### Example: Using METAR and TAF Together
+### Example: Using METARs and TAFs Together
 
 Let’s look at an example for **Orlando International Airport (KMCO)**. We’ll combine a METAR and a TAF to see how a pilot might use both reports:
 
@@ -444,46 +451,46 @@ By reading and interpreting **both METARs and TAFs**, pilots can assess the **cu
 
 ---
 
-# Final Notes and Tips for Pilots
+# Final Notes and Tips
 
 After understanding how to read and decode both **METARs** and **TAFs**, here are some **practical tips** to help pilots stay prepared and make the best use of these essential weather reports during their flights.
 
-### 1. **Always Check for Updates**
+### **Always Check for Updates**
 
 - **METARs** are updated every hour (or as conditions change), so it’s essential to check the **latest report** before takeoff, en route, and during the approach to your destination.  
 - **TAFs** are updated every 6 hours, but keep an eye out for **amended forecasts** that could provide more accurate or current information.
 
-### 2. **Use METARs for Immediate Decisions**
+### **Use METARs for Immediate Decisions**
 
 - METARs give you the **current weather conditions**, such as wind direction and speed, visibility, sky conditions, and temperature.  
 - Always check the **wind conditions** in the METAR to determine if your aircraft is within safe operating limits for takeoff and landing.
 
-### 3. **Use TAFs for Long-Term Flight Planning**
+### **Use TAFs for Long-Term Flight Planning**
 
 - TAFs provide **forecasted weather** for the next 24 to 30 hours, which is critical for planning your flight route, determining fuel requirements, and anticipating any weather changes at your destination.
 - While METARs give you real-time data, TAFs help you understand how the weather will evolve, allowing you to prepare for upcoming conditions.
 
-### 4. **Monitor Sky Conditions**
+### **Monitor Sky Conditions**
 
 - Sky conditions in both METARs and TAFs can be important for navigation and **approach planning**. Pay attention to the height of clouds and the **visibility** to determine if you will need to adjust your approach or if alternate airports may be necessary.
   
-### 5. **Know Your Limits**
+### **Know Your Limits**
 
 - **Instrument Flight Rules (IFR)** and **Visual Flight Rules (VFR)** have specific weather requirements:
   - **VFR**: Good weather with **clear skies** and visibility greater than 3 statute miles.
   - **IFR**: Weather that may require **instrument navigation** (lower visibility, low clouds, etc.).
 - Always verify if the **current METAR** and **forecasted TAF** conditions are within the limits of VFR or IFR for your flight.
 
-### 6. **Look for Special Weather Changes**
+### **Look for Special Weather Changes**
 
 - **TAF amendments** may occur due to unexpected weather changes, such as **low visibility**, **winds exceeding limits**, or **thunderstorms**.  
 - Keep an eye out for **amended TAFs** that might reflect updated forecasts based on new weather patterns.
 
-### 7. **Cross-Reference with Other Weather Sources**
+### **Cross-Reference with Other Weather Sources**
 
 - While **METARs** and **TAFs** provide essential data, always **cross-reference** with other weather sources such as **weather radar**, **pilot reports (PIREPs)**, and **satellite imagery** for the most accurate and current information.
 
-### 8. **Practice Makes Perfect**
+### **Practice Makes Perfect**
 
 - The more you read and practice interpreting METARs and TAFs, the quicker you’ll become at understanding weather patterns and making **informed decisions** during flights. Over time, you’ll also start to recognize patterns and improve your judgment.
 
@@ -500,6 +507,11 @@ After understanding how to read and decode both **METARs** and **TAFs**, here ar
 ---
 
 By mastering METARs and TAFs, pilots can make informed decisions that lead to safer, more efficient flights. These reports are an indispensable part of flight planning, and staying on top of them ensures that you're always prepared for changing weather conditions.
+
+---
+
+## Glossary of Aviation and Weather Terms
+This glossary defines key terms used throughout the manual to ensure clarity in technical sections.
 
 ---
 ## AI Statement & References
