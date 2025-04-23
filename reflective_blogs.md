@@ -8,6 +8,9 @@
 5. [Reflective Blog 5: Prompt A](#reflective-blog-5-prompt-a)
 6. [Reflective Blog 6: Prompt E](#reflective-blog-6-prompt-e)
 7. [Reflective Blog 7: Prompt R](#reflective-blog-7-prompt-r)
+8. [Final Reflection Post](#final-reflection--enc-4265-writing-for-the-computer-industry)
+
+
    
 # Wayback Analysis: The Home Depot Homepage from April 2011
 
@@ -239,3 +242,21 @@ Overall, working with AI for this project was a fun and useful experience. While
 *Note: Grammarly was used in this text as a spell check and grammar corrector.*
 
 ---
+
+# Final Reflection – ENC 4265: Writing for the Computer Industry
+
+As this semester comes to a close, I’ve had the chance to look back on my journey through ENC 4265 — and it’s been more impactful than I expected. This course helped me merge two very different worlds: my passion for technology and the human side of it all — clear, purposeful communication.
+
+Over the semester, I created everything from a technical manual to a chatbot interface and even a procedure video. Each assignment was a new way to push my skills and present information in a clear, helpful way for others. The manual project, in particular, taught me how to translate complex, technical tasks into understandable steps. That’s a skill I know I’ll use again — whether I’m documenting IT processes, building UX writing samples, or communicating across teams in future tech roles.
+
+I’ve grown in how I approach writing and content creation for real-world audiences. Before this class, I often focused on getting the facts right — now I think more critically about audience expectations, tone, and how visuals and structure support clarity. These are all things I can point to in a portfolio or bring into job interviews, especially as I work toward becoming an IT professional with a human factors edge.
+
+Another big part of this course was learning to work with AI tools. I used BoodleBox early on and leaned into ChatGPT for idea generation and revision help. These tools weren’t shortcuts — they were springboards. They helped me brainstorm, reframe explanations, and double-check clarity. But I was always the one in control of the message. I do feel ready to use AI responsibly in the workplace — as a tool for drafting, ideation, or technical accuracy, not as a replacement for my voice.
+
+In terms of growth, I’m most proud of how this course helped me define my communication style. I now feel more confident sharing information with both technical and non-technical audiences. I’m also taking more creative ownership over how I present my work — something that’s reflected throughout this very portfolio.
+
+Going forward, I want to keep bridging the gap between people and technology. I’ll keep refining how I write with clarity and empathy, especially in support documentation or user-focused content. I also know now to avoid overcomplicating — a mistake I’ve made before when I let my excitement get ahead me and overcomplicating the writing to where it's beyond what the readers need.  
+
+To my professor — thank you. This class was thoughtfully designed, and every assignment had a clear purpose that connected back to real industry skills. I appreciated the flexibility and the creative freedom we had to shape our projects. If I could offer one suggestion: maybe include a collaborative writing or peer-editing activity next time. I think students would benefit from seeing how others solve the same problem in different ways.
+
+This course didn’t just teach me how to write for the industry — it reminded me that communication *is* part of the industry. And that’s something I’ll carry with me, no matter where I end up.
