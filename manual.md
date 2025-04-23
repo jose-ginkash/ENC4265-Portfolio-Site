@@ -6,8 +6,11 @@
 
 ---
 
-![Pilot checking the weather](https://www.aeroplusaviation.com/wp-content/uploads/MH130512-A0351.jpg)  
-*Image Source: https://www.aeroplusaviation.com/aviation-weather-on-the-go*
+<div style="text-align: center;">
+  <img src="https://www.aeroplusaviation.com/wp-content/uploads/MH130512-A0351.jpg" alt="Pilot checking the weather" style="width: 80%; border-radius: 8px;">
+  <p><strong>Pilot Checking the Weather</strong><br>Pilots use a variety of tools, including METARs and TAFs, to assess weather conditions before a flight. Staying informed ensures safety and smart decision-making.</p>
+  <p><em>Image Source: <a href="https://www.aeroplusaviation.com/aviation-weather-on-the-go" target="_blank">https://www.aeroplusaviation.com/aviation-weather-on-the-go</a></em></p>
+</div>
 
 ---
 
@@ -112,6 +115,12 @@ Let’s decode the following sample METAR line to understand what each group mea
 
 - METAR KMCO 081753Z 09010KT 10SM FEW035 SCT050 BKN090 28/21 A2992 RMK AO2 SLP132
 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/kautF8X.png" alt="METAR example" style="width: 80%; border-radius: 8px;">
+  <p><strong>METAR Example</strong><br>This is a real-world METAR report with annotations to explain each section. METARs give pilots a snapshot of current weather at an airport, typically issued every hour.</p>
+  <p><em>Image Source: Author</em></p>
+</div>
+
 Each group of characters gives a specific piece of weather information. Here's how to read it section by section:
 
 ---
@@ -202,9 +211,11 @@ Sky conditions are reported from least to most coverage:
 
 > Cloud heights are always in hundreds of feet above ground level.
 
-![Sky Conditions Symbols](https://cdn.windy.app/site-storage/posts/December2022/okta-symbols-windyapp.jpg)  
-*Sky condition symbols and their associated meanings*
-*Image Source: https://windy.app/blog/okta-cloud-cover.html*
+<div style="text-align: center;">
+  <img src="https://cdn.windy.app/site-storage/posts/December2022/okta-symbols-windyapp.jpg" alt="Sky Conditions Symbols" style="width: 80%; border-radius: 8px;">
+  <p><strong>Sky Condition Symbols and Their Meanings</strong><br>This chart shows the standard okta-based symbols used in METARs and TAFs to represent cloud coverage—from clear skies to overcast.</p>
+  <p><em>Image Source: <a href="https://windy.app/blog/okta-cloud-cover.html" target="_blank">https://windy.app/blog/okta-cloud-cover.html</a></em></p>
+</div>
 
 ---
 
@@ -230,9 +241,11 @@ Sky conditions are reported from least to most coverage:
 
 > Used to calibrate the aircraft's altimeter to ensure accurate altitude readings.
 
-![Altimeter](https://forum.dcs.world/uploads/monthly_2021_04/C101CC_Std.jpg.71fb2478eee6d210b31d63b385e8954b.jpg)
-*Aircraft altimeter reading example (29.92 inHg)*
-*Image Source: https://forum.dcs.world/topic/268345-fixed-altimeter-does-not-take-temperature-into-account/*
+<div style="text-align: center;">
+  <img src="https://forum.dcs.world/uploads/monthly_2021_04/C101CC_Std.jpg.71fb2478eee6d210b31d63b385e8954b.jpg" alt="Altimeter" style="width: 80%; border-radius: 8px;">
+  <p><strong>Aircraft Altimeter Reading Example (29.92 inHg)</strong><br>This is a standard analog altimeter used in many general aviation aircraft. The reading shows the standard pressure setting of 29.92 inches of mercury (inHg), commonly used when flying at or above the transition altitude.</p>
+  <p><em>Image Source: <a href="https://forum.dcs.world/topic/268345-fixed-altimeter-does-not-take-temperature-into-account/" target="_blank">https://forum.dcs.world/topic/268345-fixed-altimeter-does-not-take-temperature-into-account/</a></em></p>
+</div>
 
 
 ---
@@ -301,6 +314,12 @@ Just like METARs, TAFs follow a standard format. Here's a sample TAF:
 Let’s take a look at the following sample TAF and break it down:
 
 - TAF KMCO 081730Z 0818/0924 09010KT P6SM SCT050 BKN090
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/ct5M1bq.png" alt="TAF example" style="width: 80%; border-radius: 8px;">
+  <p><strong>TAF Example</strong><br>This annotated TAF shows how forecast data is structured. TAFs help pilots plan ahead for future weather conditions, usually valid over a 24–30 hour period.</p>
+  <p><em>Image Source: Author</em></p>
+</div>
 
 ---
 
@@ -395,9 +414,12 @@ Let’s take a look at the following sample TAF and break it down:
 
 > Cloud heights are always measured in hundreds of feet AGL. The forecast indicates the highest cloud layers, but these conditions could change throughout the forecast period.
 
-![Sky Conditions Symbols](https://cdn.windy.app/site-storage/posts/December2022/okta-symbols-windyapp.jpg)  
-*Sky condition symbols and their associated meanings*
-*Image Source: https://windy.app/blog/okta-cloud-cover.html*
+<div style="text-align: center;">
+  <img src="https://cdn.windy.app/site-storage/posts/December2022/okta-symbols-windyapp.jpg" alt="Sky Conditions Symbols" style="width: 80%; border-radius: 8px;">
+  <p><strong>Sky Condition Symbols and Their Meanings</strong><br>This chart shows the standard okta-based symbols used in METARs and TAFs to represent cloud coverage—from clear skies to overcast.</p>
+  <p><em>Image Source: <a href="https://windy.app/blog/okta-cloud-cover.html" target="_blank">https://windy.app/blog/okta-cloud-cover.html</a></em></p>
+</div>
+
 
 ---
 
