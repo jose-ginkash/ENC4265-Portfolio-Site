@@ -160,6 +160,28 @@ Each group of characters gives a specific piece of weather information. Here's h
 > In U.S. METARs, visibility is in **statute miles (SM)**.  
 > In international METARs, **“9999”** means 10 kilometers or more.
 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://aerospaceamerica.aiaa.org/wp-content/uploads/2020/06/joy-opener.jpg" alt="Clear visibility" style="width: 100%; border-radius: 8px;">
+    <p><strong>Clear (10+ SM)</strong><br>Excellent visibility conditions.</p>
+    <p><em>Image Source: <a href="https://aerospaceamerica.aiaa.org/features/joyless-ride/" target="_blank">Aerospace America</a></em></p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://pilotworkshop.com/wp-content/uploads/2014/02/snow_showers_350.png" alt="Moderate visibility" style="width: 100%; border-radius: 8px;">
+    <p><strong>Moderate (5 SM)</strong><br>Visibility affected by weather like snow or haze.</p>
+    <p><em>Image Source: <a href="https://pilotworkshop.com/tips/flying-through-snow/" target="_blank">PilotWorkshops</a></em></p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://aviationsafetymagazine.com/wp-content/uploads/2019/10/p1bt2s2ptn1etc1r8oqp0g801o8m8.jpg" alt="Poor visibility" style="width: 100%; border-radius: 8px;">
+    <p><strong>Poor (≤ 1 SM)</strong><br>Low visibility, often unsafe for VFR flights.</p>
+    <p><em>Image Source: <a href="https://aviationsafetymagazine.com/features/one-mile-clear-of-clouds/" target="_blank">Aviation Safety Magazine</a></em></p>
+  </div>
+
+</div>
+
 ---
 
 ## Sky Conditions
@@ -179,6 +201,10 @@ Sky conditions are reported from least to most coverage:
 > - **OVC** = Overcast (8 oktas)
 
 > Cloud heights are always in hundreds of feet above ground level.
+
+![Sky Conditions Symbols](https://cdn.windy.app/site-storage/posts/December2022/okta-symbols-windyapp.jpg)  
+*Sky condition symbols and their associated meanings*
+*Image Source: https://windy.app/blog/okta-cloud-cover.html*
 
 ---
 
@@ -203,6 +229,11 @@ Sky conditions are reported from least to most coverage:
 - **2992** = 29.92 inHg
 
 > Used to calibrate the aircraft's altimeter to ensure accurate altitude readings.
+
+![Altimeter](https://forum.dcs.world/uploads/monthly_2021_04/C101CC_Std.jpg.71fb2478eee6d210b31d63b385e8954b.jpg)
+*Aircraft altimeter reading example (29.92 inHg)*
+*Image Source: https://forum.dcs.world/topic/268345-fixed-altimeter-does-not-take-temperature-into-account/*
+
 
 ---
 
@@ -325,6 +356,28 @@ Let’s take a look at the following sample TAF and break it down:
 
 > "P" indicates that the visibility is forecast to be greater than 6 statute miles. If the visibility were less than 6 miles, the forecast would include a specific number (e.g., **6SM**).
 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://aerospaceamerica.aiaa.org/wp-content/uploads/2020/06/joy-opener.jpg" alt="Clear visibility" style="width: 100%; border-radius: 8px;">
+    <p><strong>Clear (10+ SM)</strong><br>Excellent visibility conditions.</p>
+    <p><em>Image Source: <a href="https://aerospaceamerica.aiaa.org/features/joyless-ride/" target="_blank">Aerospace America</a></em></p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://pilotworkshop.com/wp-content/uploads/2014/02/snow_showers_350.png" alt="Moderate visibility" style="width: 100%; border-radius: 8px;">
+    <p><strong>Moderate (5 SM)</strong><br>Visibility affected by weather like snow or haze.</p>
+    <p><em>Image Source: <a href="https://pilotworkshop.com/tips/flying-through-snow/" target="_blank">PilotWorkshops</a></em></p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://aviationsafetymagazine.com/wp-content/uploads/2019/10/p1bt2s2ptn1etc1r8oqp0g801o8m8.jpg" alt="Poor visibility" style="width: 100%; border-radius: 8px;">
+    <p><strong>Poor (≤ 1 SM)</strong><br>Low visibility, often unsafe for VFR flights.</p>
+    <p><em>Image Source: <a href="https://aviationsafetymagazine.com/features/one-mile-clear-of-clouds/" target="_blank">Aviation Safety Magazine</a></em></p>
+  </div>
+
+</div>
+
 ---
 
 ## Sky Conditions
@@ -341,6 +394,10 @@ Let’s take a look at the following sample TAF and break it down:
 > - **OVC** – Overcast (8 oktas)
 
 > Cloud heights are always measured in hundreds of feet AGL. The forecast indicates the highest cloud layers, but these conditions could change throughout the forecast period.
+
+![Sky Conditions Symbols](https://cdn.windy.app/site-storage/posts/December2022/okta-symbols-windyapp.jpg)  
+*Sky condition symbols and their associated meanings*
+*Image Source: https://windy.app/blog/okta-cloud-cover.html*
 
 ---
 
